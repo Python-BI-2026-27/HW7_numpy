@@ -1,28 +1,15 @@
-# HW 7. Numpy
+# HW7: NumPy Fundamentals
 
-Библиотека numpy - ключевой кирпичик в мире питонячей биоинформатики. Это задание нацелено на то, чтобы вы посмотрели насколько широки и глубоки её возможности. А еще вам придется очень много читать документацию. Бесценный навык! Слава богу у numpy документация тоже бесценная. 
+This repository contains my solutions for Homework 7, focused on the core features of the **NumPy** library in Python.
 
+Author: Angelina Popova
 
-## Часть 1. Документация
+## Topics Covered
+* **Array Creation & Manipulation:** Generating vectors and matrices and modifying shapes.
+* **Indexing & Masking:** Filtering, conditional replacements, indexing, and searching.
+* **Math & Linear Algebra:** Element-wise vs. matrix multiplication, coordinate transformations, and solving linear systems.
+* **Random Number Generation:** Setting random seeds for reproducibility and sampling various distributions.
 
-Прочитайте и выучите наизусть [документацию](https://numpy.org/doc/stable/reference/index.html#reference) библиотеки numpy (задание без баллов, проверяться и оцениваться не будет). 
-
-## Часть 2. Задачки 
-
-Вам дан ноутбук `HW7_numpy.ipynb`. Откройте его (через Jupyter / VSCode / Google Colab) и решите предложенные в нём задания.  
-
-❗️ **Обязательно** прочитайте внимательно все правила перечисленные в начале ноутбука
-
-Почти все задания решаются в одну строчку, и под все из них существуют конкретные специальные функции в библиотеке `numpy`. Вам не надо писать код самим (почти), вам нужно лишь найти соотвествующую функцию. Это задание, в первую очередь, *на чтение документации*, а не на программирование.
-
-### Форма сдачи
-
-Сделайте форк, решите задание локально и отправьте пуш в мой репозиторий. Ссылку на пуш никуда прикладывать не надо.  **НЕ НАДО** создавать копию этого ноутбука.
-
-
-### Разбалловка
-
-Задания весят от 1 до 8 баллов в зависимости от сложности, 100 суммарно. 
-
-
-Удачи! ✨✨
+## Repository Structure
+* `HW7_numpy.ipynb` — Jupyter Notebook with task descriptions, solutions, and self-check `assert` tests.
+* `README.md` — Project overview.
